@@ -1,0 +1,21 @@
+{
+  "id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "image": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "token_id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "name": "Abe",
+  "description": "A time-warped wizard with eyes that pierce the veil and a robe darker than the night.",
+  "attributes": [
+    {
+      "trait_type": "topSpeed",
+      "value": 2800
+    },
+    {
+      "trait_type": "acceleration",
+      "value": 60
+    },
+    {
+      "trait_type": "turningRate",
+      "value": 0.7
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "image": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "token_id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "name": "Boss",
+  "description": "A rugged, authority-bearing figure, exuding disheveled elegance amidst a life marred by excess.",
+  "attributes": [
+    {
+      "trait_type": "topSpeed",
+      "value": 5000
+    },
+    {
+      "trait_type": "acceleration",
+      "value": 20
+    },
+    {
+      "trait_type": "turningRate",
+      "value": 0.5
+    }
+  ]
+}

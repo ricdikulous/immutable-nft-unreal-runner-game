@@ -1,0 +1,21 @@
+{
+  "id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "image": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "token_id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "name": "Zombie",
+  "description": "A prisoner, shackled and tattered, roams with a haunting gaze in the shadowy depths of a decrepit prison.",
+  "attributes": [
+    {
+      "trait_type": "topSpeed",
+      "value": 4000
+    },
+    {
+      "trait_type": "acceleration",
+      "value": 60
+    },
+    {
+      "trait_type": "turningRate",
+      "value": 0.6
+    }
+  ]
+}

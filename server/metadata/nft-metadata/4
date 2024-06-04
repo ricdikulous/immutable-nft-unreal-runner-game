@@ -1,0 +1,21 @@
+{
+  "id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "image": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "token_id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "name": "Kachujin",
+  "description": "An adept martial artist, mastering ancient techniques with unwavering resolve and a spirit unbroken by any challenge.",
+  "attributes": [
+    {
+      "trait_type": "topSpeed",
+      "value": 6000
+    },
+    {
+      "trait_type": "acceleration",
+      "value": 50
+    },
+    {
+      "trait_type": "turningRate",
+      "value": 1.5
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "image": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "token_id": "< THIS WILL BE REPLACED PROGRAMMATICALLY >",
+  "name": "Ayana",
+  "description": "A rebellious tech explorer with a vibrant spirit, navigating the digital cosmos with style and determination.",
+  "attributes": [
+    {
+      "trait_type": "topSpeed",
+      "value": 4000
+    },
+    {
+      "trait_type": "acceleration",
+      "value": 20
+    },
+    {
+      "trait_type": "turningRate",
+      "value": 1.2
+    }
+  ]
+}
